@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+}
+
+
+.uno{
+    background-color: blue;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
+
+.dos{
+    background-color: red;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
+
+.tres{
+    background-color: yellow;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
+
+.cuatro{
+    background-color: green;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
+
+.cinco{
+    background-color: black;
+    color: #fff;
+    width: 300px;
+    height: 150px;
+}
